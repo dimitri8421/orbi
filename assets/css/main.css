@@ -1235,23 +1235,3 @@ div.categories>div>div>div:nth-child(2) {
     margin-bottom: 8em;
 }
 
-
-@media (max-width: 1291px) {
-    .aW5wdXQ {
-        display: none;
-    }
-
-    .title>svg {
-        display: none;
-    }
-    .buttons > div:nth-child(2) {
-        display: none;
-    }
-
-    .title {
-        background: url(../img/logo-mobile.png)no-repeat top left;
-        background-size: contain;
-        width: 126.5px;
-        height: 50px;
-    }
-}
