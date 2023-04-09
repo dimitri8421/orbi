@@ -8,6 +8,9 @@
     src: url(../fonts/Barlow/Barlow-ExtraBold.ttf);
 }
 
+html, body {
+    height: 100%;
+}
 body {
     margin: 0 auto !important;
     background: #F5F5F5;
@@ -1235,3 +1238,20 @@ div.categories>div>div>div:nth-child(2) {
     margin-bottom: 8em;
 }
 
+
+#mobile {
+    display: none;
+    background: url(https://andira.pr.gov.br/instances/6/uploads/activities/editor/ea0210196248879ba8a9e17904d502ecf14ab506.jpg)no-repeat center center;
+    background-size: cover;
+    height: 100%;
+}
+
+@media (max-width: 1291px) {
+    #app, footer {
+        display: none;
+    }
+
+    #mobile {
+        display: block;
+    }
+}
