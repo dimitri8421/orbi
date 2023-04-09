@@ -340,14 +340,14 @@ input {
 }
 
 .vaccine-img1 {
-    background: url(/assets/img/vaccine.png) no-repeat center center;
+    background: url(../img/vaccine.png) no-repeat center center;
     opacity: 0.9;
     border-radius: 15px;
     background-size: cover;
 }
 
 .vaccine-img2 {
-    background: url(/assets/img/dig.png) no-repeat center center;
+    background: url(../img/dig.png) no-repeat center center;
     border-radius: 15px;
     background-size: cover;
 }
