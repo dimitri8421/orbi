@@ -48,7 +48,7 @@ input[type="radio"] {
 }
 
 .playExec {
-    background: url(/assets/icon/btn-play.svg) center center no-repeat;
+    background: url(../icon/btn-play.svg) center center no-repeat;
     height: 100%;
     width: 100%;
 }
@@ -65,20 +65,20 @@ input[type="radio"] {
 
 .back {
     cursor: pointer;
-    background: url(/assets/icon/back.svg) center center no-repeat;
+    background: url(../icon/back.svg) center center no-repeat;
     height: 4em;
     width: 3em;
 }
 
 .forward {
     cursor: pointer;
-    background: url(/assets/icon/forward.svg) center center no-repeat;
+    background: url(../icon/forward.svg) center center no-repeat;
     height: 4em;
     width: 3em;
 }
 
 .shareIcon {
-    background: url(/assets/icon/share.svg) center center no-repeat;
+    background: url(../icon/share.svg) center center no-repeat;
     height: 10px;
     width: 10px;
     margin-right: 0.6em;
